@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab07</string>
+
+    <string name="skladuj">SKŁADUJ</string>
+    <string name="wydaj">WYDAJ</string>
+</resources>
